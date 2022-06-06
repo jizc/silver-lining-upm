@@ -1,0 +1,18 @@
+{
+  "name": "com.cloudonce.cloudonce",
+  "version": "3.0.0",
+  "displayName": "CloudOnce",
+  "description": "Unified Game Services API",
+  "unity": "2018.1",
+  "license": "MIT",
+  "keywords": [
+    "leaderboards",
+    "achievements",
+    "cloud-save"
+  ],
+  "author": {
+    "name": "CloudOnce",
+    "url": "https://github.com/CloudOnce/CloudOnce"
+  },
+  "type": "library"
+}
